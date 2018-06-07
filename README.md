@@ -1,1 +1,1 @@
-# mi_pc ทยะกรืษฬณว https://www.mi.com/
+# mi_pc ไปฟๅฐ็ฑณๅ•ๅ https://www.mi.com/
