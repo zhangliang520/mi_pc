@@ -7,7 +7,7 @@
 2：1.5年+java+go+小碗汤+ll837448792
 
 3：0年+java+fish黎+justlikeapig
-
+4：0年工作经验，java+薛超科+xuechaoke
 
 
 
