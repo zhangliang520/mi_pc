@@ -4,7 +4,7 @@
 
 1：3年+java+张亮+zhangliang520
 
-2：1. 5年+java+go+小碗汤+ll837448792
+2：1.5年+java+go+小碗汤+ll837448792
 
 3：0年+java+fish黎+justlikeapig
 
