@@ -9,9 +9,15 @@
 		<artifactId>mi-parent</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
+	
 	<artifactId>mi-base-web-admin</artifactId>
 	<packaging>war</packaging>
-	<name>mi-base-web-admin</name>
+	<name>mi-base-web-admin</name>	
+	
+	<properties>
+  	  <failOnMissingWebXml>false</failOnMissingWebXml>
+	</properties>
+	
 	<dependencies>
 		<dependency>
 			<groupId>com.github.mi</groupId>

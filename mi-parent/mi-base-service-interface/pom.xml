@@ -10,7 +10,8 @@
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
 	<artifactId>mi-base-service-interface</artifactId>
-	<name>mi-base-service</name>
+	<name>mi-base-service</name>  
+	
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>

@@ -11,7 +11,16 @@
 	<artifactId>mi-base-web-site</artifactId>
 	<packaging>war</packaging>
 	<name>mi-base-web-site</name> 
+	
+	<properties>
+  	  <failOnMissingWebXml>false</failOnMissingWebXml>
+	</properties>
+	
 	<dependencies>
+        <dependency>  
+            <groupId>org.springframework.boot</groupId>  
+            <artifactId>spring-boot-starter-web</artifactId>  
+		</dependency>
 		<dependency>
 			<groupId>com.github.mi</groupId>
 			<artifactId>mi-base-api</artifactId>

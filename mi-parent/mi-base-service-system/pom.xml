@@ -7,8 +7,10 @@
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
 	<artifactId>mi-base-service-system</artifactId>
-	<name>mi-base-service-system</name>
+	<name>mi-base-service-system</name> 
+	
 	<properties>
+  	  <failOnMissingWebXml>false</failOnMissingWebXml>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
 	<dependencies>  

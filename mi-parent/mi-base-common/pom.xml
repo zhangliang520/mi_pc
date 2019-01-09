@@ -10,6 +10,8 @@
 	</parent>
 	<artifactId>mi-base-common</artifactId>
 	<name>mi-base-common</name>
+	
+	
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>

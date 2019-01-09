@@ -8,6 +8,8 @@
 	</parent>
 	<artifactId>mi-base-model</artifactId>
 	<name>mi-base-model</name>
+	<packaging>jar</packaging>
+	
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
