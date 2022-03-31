@@ -24,7 +24,7 @@
 		<jstl-version>1.2</jstl-version>
 		<javax.servlet-api.version>3.1.0</javax.servlet-api.version>
 		<servlet-api.version>3.0-alpha-1</servlet-api.version>
-		<spring-boot-starter-web.version>2.0.3.RELEASE</spring-boot-starter-web.version>		
+		<spring-boot-starter-web.version>2.5.12</spring-boot-starter-web.version>		
 		<mybatis-spring-boot-starter.version>1.3.2</mybatis-spring-boot-starter.version>		
 		<mysql-connector-java.version>5.1.35</mysql-connector-java.version>		
 		<janino.version>3.0.7</janino.version>		
